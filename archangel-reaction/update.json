@@ -1,0 +1,16 @@
+{
+  "name": "Archangel Reaction",
+  "slug": "arch-reaction",
+  "version": "1.2.0",
+  "author": "Aerty-G",
+  "author_homepage": "https://github.com/Aerty-G",
+  "homepage": "https://aerty.my.id",
+  "download_url": "https://github.com/Aerty-G/wp-discord-embedded-post/releases/download/v1.0.8/wp-embedded-post.zip",
+  "requires": "7.4",
+  "tested": "7.4",
+  "last_updated": "2025-05-31",
+  "sections": {
+    "description": "Menambahkan Reaction Button Custom Ke Wordpress, dalam Bentuk Iframe.",
+    "changelog": "Well Ask Me In Discord"
+  }
+}
