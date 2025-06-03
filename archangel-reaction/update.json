@@ -1,16 +1,16 @@
 {
   "name": "Archangel Reaction",
   "slug": "arch-reaction",
-  "version": "1.2.0",
+  "version": "1.5.0",
   "author": "Aerty-G",
   "author_homepage": "https://github.com/Aerty-G",
   "homepage": "https://aerty.my.id",
   "download_url": "https://raw.githubusercontent.com/Aerty-G/updater-repo/refs/heads/main/archangel-reaction/files/arch-reaction.zip",
   "requires": "7.4",
   "tested": "7.4",
-  "last_updated": "2025-05-31",
+  "last_updated": "2025-06-02",
   "sections": {
     "description": "Menambahkan Reaction Button Custom Ke Wordpress, dalam Bentuk Iframe.",
-    "changelog": "Well Ask Me In Discord"
+    "changelog": "Add New Dasboard In Admin Page or wp-admin"
   }
 }
